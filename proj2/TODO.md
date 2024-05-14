@@ -1,3 +1,1 @@
-- [ ] Try to use the hashing function somehow to create train, valid and test splits.
-- [ ] Write required models
-- [ ] Create a pipeline for testing
+
