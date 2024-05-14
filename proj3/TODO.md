@@ -1,15 +1,17 @@
 1. Investigate the dataset
 
-2. Implement Stable Diffusion in PyTorch this time maybe
+2. Extract the functions from the pipeline notebook to a separate .py file to clear things up
 
-3. Implement DDPM
+3. Implement Stable Diffusion in PyTorch this time maybe
 
-4. Implement improved DDPM
+4. Implement DDPM
 
-5. Calculate the Fr´echet Inception Distance (FID) for generated images and compare them with data available in literature
+5. Implement improved DDPM
 
-6. Run some experiments on each of these
+6. Calculate the Fr´echet Inception Distance (FID) for generated images and compare them with data available in literature
 
-7. Write the report
+7. Run some experiments on each of these
 
-8. Presentation
+8. Write the report
+
+9. Presentation
