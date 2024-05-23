@@ -2,7 +2,7 @@
 
 2. Extract the functions from the pipeline notebook to a separate .py file to clear things up
 
-3. Implement Stable Diffusion in PyTorch this time maybe
+3. Implement Stable Diffusion in PyTorch this time maybe - I can't find Stable Diffusion that would work easily as of now, so maybe we could take two different types of GANs: https://github.com/eriklindernoren/PyTorch-GAN
 
 4. Implement DDPM - this is kind of done already in ddpm notebook
 
